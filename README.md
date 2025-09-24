@@ -34,4 +34,4 @@ npm run dev
 https://localhost:3000/api-docs
 
 ## Tutorial
-A step-by-step guide to recreating this project can be found here: [Read the Full Tutorial](https://linktotutorial)
+A step-by-step guide to recreating this project can be found here: [Read the Full Tutorial](https://masteringbackend.com/posts/build-a-personal-library-api-with-node-js-express-and-mongo-db)
